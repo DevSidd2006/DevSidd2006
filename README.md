@@ -90,7 +90,7 @@ const currentFocus = {
 
 <div align="center">
 
-[![QuizMaster](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=gov_connect&theme=radical&hide_border=true)]([https://github.com/yourusername/gov_connect](https://github.com/DevSidd2006/Quiz_Master))
+[![QuizMaster]]([https://github.com/yourusername/gov_connect](https://github.com/DevSidd2006/Quiz_Master))
 
 </div>
 
