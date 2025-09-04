@@ -7,7 +7,7 @@
   
   ### 🦊 Welcome to my digital den! 
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front+End+Developer;Problem+Solver;Code+Enthusiast;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;Problem+Solver;Code+Enthusiast;Always+Learning!" alt="Typing SVG" />
   
 </div>
 
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **innovative web applications**
-- 🌱 Learning **Backend, Cloud Computing, DevOps and much more..**
+- 🌱 Learning **Backend Development, DSA, Cloud Computing, DevOps and much more..**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, algorithms, or tech trends**
 
@@ -66,33 +66,9 @@
 </tr>
 <tr>
 </td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-</td>
-<td align="center" width="96">
-</td>
-<td align="center" width="96">
-</td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
 </div>
 
 ---
@@ -114,7 +90,7 @@ const currentFocus = {
 
 <div align="center">
 
-[![GovConnect](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=gov_connect&theme=radical&hide_border=true)](https://github.com/yourusername/gov_connect)
+[![QuizMaster](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=gov_connect&theme=radical&hide_border=true)]([https://github.com/yourusername/gov_connect](https://github.com/DevSidd2006/Quiz_Master))
 
 </div>
 
@@ -134,8 +110,6 @@ const currentFocus = {
 <div align="center">
   
   ### 🦊 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   ⭐️ From [DevSidd2006](https://github.com/DevSidd2006)
   
