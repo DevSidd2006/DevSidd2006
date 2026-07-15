@@ -54,6 +54,8 @@
 [![Shiksha-AI](https://github-readme-stats.vercel.app/api/pin/?username=DevSidd2006&repo=Shiksha-AI&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=aaa)](https://github.com/DevSidd2006/Shiksha-AI)
 [![Intelligent-Query-Retrieval-System](https://github-readme-stats.vercel.app/api/pin/?username=DevSidd2006&repo=Intelligent-Query-Retrieval-System&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=aaa)](https://github.com/DevSidd2006/Intelligent-Query-Retrieval-System)
 
+![snake gif](https://github.com/DevSidd2006/DevSidd2006/blob/output/github-snake-dark.svg)
+
 </div>
 
 ---
