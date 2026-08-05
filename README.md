@@ -7,9 +7,9 @@
 <br/>
 
 ```
-> Hey There!, I am Siddhartha Kushwaha.
+> Hey there! I am Siddhartha Kushwaha.
 [ AI & Data Science @ VIT Pune ]
-[ Builder · CP Grinder · Frontend Dev ]
+[ Builder · CP Grinder · Frontend Dev · OS Contributor]
 ```
 
 <br/>
