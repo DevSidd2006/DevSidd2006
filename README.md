@@ -14,6 +14,9 @@
 
 <br/>
 
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/ecf4e8ec-ede8-4e07-8d3b-c7905be84335" />
+
+
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
