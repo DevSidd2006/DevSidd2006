@@ -14,7 +14,7 @@
 
 <br/>
 
-<img width="275" height="275" alt="image" src="https://github.com/user-attachments/assets/ecf4e8ec-ede8-4e07-8d3b-c7905be84335" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ecf4e8ec-ede8-4e07-8d3b-c7905be84335" />
 
 
 ## 🛠 Tech Stack
