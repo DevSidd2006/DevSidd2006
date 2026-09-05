@@ -14,10 +14,10 @@
 
 <br/>
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/99b5789a-d1cf-4a66-9dff-13c8e74194ab" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/99b5789a-d1cf-4a66-9dff-13c8e74194ab" />
 
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ecf4e8ec-ede8-4e07-8d3b-c7905be84335" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ecf4e8ec-ede8-4e07-8d3b-c7905be84335" />
 
 
 ## 🛠 Tech Stack
