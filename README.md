@@ -15,6 +15,8 @@
 <br/>
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/99b5789a-d1cf-4a66-9dff-13c8e74194ab" />
+<img width="110" height="150" alt="OSCI-Badge-Sidd" src="https://github.com/user-attachments/assets/c5b1d1a7-fa31-4573-9828-99fe0d39372d" />
+
 
 
 
