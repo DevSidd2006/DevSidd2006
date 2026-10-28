@@ -20,7 +20,10 @@
 
 
 
+
 ## 🛠 Tech Stack
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/DevSidd2006/badge.svg)](https://hub.xerj.org/contributors/DevSidd2006)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
